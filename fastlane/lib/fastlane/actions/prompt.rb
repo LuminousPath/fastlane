@@ -1,3 +1,5 @@
+require 'io/console'
+
 module Fastlane
   module Actions
     class PromptAction < Action
